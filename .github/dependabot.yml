@@ -3,4 +3,4 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly-what is going on" ## Just changed on GitHub
+      interval: "weekly-what is going on" ## Just changed on GitHub, and now I have changed in VS code
